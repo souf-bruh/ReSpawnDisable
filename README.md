@@ -5,6 +5,6 @@ respawn/rsp disable/enable ntf/ci - This command disable or enable the spawn of 
 ```
 ## Permissions
 ```
-rsp.ntf - Permission for NTF
-rsp.ci - Permission for Chaos Insurgency
+rsp.ntf - Permission for disable or enable the spawn NTF.
+rsp.ci - Permission for disable or enable the spawn Chaos Insurgency.
 ```
