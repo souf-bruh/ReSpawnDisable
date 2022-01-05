@@ -31,7 +31,7 @@ namespace NTFSpawnDisable
                         }
                         default:
                         {
-                            response = "Error. Usage: respawn disable/enable ntf/ci or rs disable/enable ntf/ci";
+                            response = "Error. Usage: respawn disable/enable ntf/ci or rsp disable/enable ntf/ci";
                             return false;
                         }
                     }
@@ -79,7 +79,7 @@ namespace NTFSpawnDisable
                         }
                     }
                 }
-                response = "Error. Usage: respawn disable/enable ntf/ci or rs disable/enable ntf/ci";
+                response = "Error. Usage: respawn disable/enable ntf/ci or rsp disable/enable ntf/ci";
                 return false;
             }
         }
